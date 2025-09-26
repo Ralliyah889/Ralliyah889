@@ -4,25 +4,48 @@
 
  [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/Ralliyah889) 
   
-# Hi there, I'm Ralliyah Rushdah EP! 👋
+# 👋 Hi, I'm Ralliyah Rushdah  
 
-Welcome to my GitHub profile! 
-I'm a first-year B.Tech Computer Science student at ITM School of Future Tech. I love coding and exploring new technologies to build innovative projects. Here, you'll find a collection of my projects and experiments as I grow my skills in programming.
+🚀 **B.Tech Computer Science Student | Full-Stack Developer | AI/ML Enthusiast**  
 
----
-
-## 🛠️ Tech Skills
-
-- **Languages:** Python, C++, HTML-css ,java , Mysql 
-  
----
-
-## 🤝 Connect with Me
-
-- **Email:** : ralliyahrushdah@gmail.com)
-- **LinkedIn:**[(https://www.linkedin.com/in/ralliyah/)]
+I enjoy building **scalable web apps, AI-driven projects, and hackathon-ready prototypes**.  
+Currently learning **Generative AI, MERN Stack, and Cloud Deployments**.  
 
 ---
 
-⭐️ **Feel free to explore and contribute to my projects! Let's build something amazing together.**
+## 🛠️ Tech Skills  
+**Languages:** Python, JavaScript (ES6+), Java, C++  
+**Web Development:** React, Node.js, Express.js, HTML5, CSS3  
+**Databases:** MongoDB, MySQL, Firebase  
+**AI/ML:** TensorFlow, PyTorch, Scikit-learn, Generative AI  
+**Tools:** Git, GitHub, Figma, GCP  
 
+---
+
+## 📌 Featured Projects  
+- 🎓 **[Student CRUD App](#)** — Full-stack CRUD system (Node.js, Express, MongoDB).  
+- 🎨 **[Generative AI Media](#)** — AI pipelines creating images & videos.  
+- 🍽️ **[Restaurant Menu Website](#)** — Mobile-friendly UI + Google Maps API.  
+- 🚚 **[Fleet Management System](#)** — Real-time logistics tracker with JS.  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ralliyah889&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ralliyah889&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced **JavaScript & React**  
+- **Data Structures & Algorithms**  
+- **Cloud Deployments** (Docker + GCP)  
+
+---
+
+## 📫 Connect with Me  
+- 📧 ralliyahrushdah@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/ralliyah)  
+- 💻 [GitHub](https://github.com/Ralliyah889)  
+
+⭐ *Feel free to explore my projects — always open to collaboration!*  
